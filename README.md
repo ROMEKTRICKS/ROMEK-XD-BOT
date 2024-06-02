@@ -135,8 +135,6 @@ Misusing the bot may result in a ban from WhatsApp. Use at your own risk.
 
 
 
-[![GURU](https://github.com/Rushmaster12.png?size=180)](https://github.com/Rushmaster12)
-
 
 
 
