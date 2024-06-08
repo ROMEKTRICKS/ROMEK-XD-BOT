@@ -7,10 +7,10 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['', 'ROMEK-XD', true], 
-  ['918433897160', 'ARYAN-XD', true], 
-  ['', 'ROMEK-XD', true],
-  ['918433897160', 'ARYAN-XD', true] ]
+  ['', 'Ꮇ𝔸𝑵૦𝒿-XD', true], 
+  ['917005439105', 'Ꮇ𝔸𝑵૦𝒿-XD', true], 
+  ['', 'Ꮇ𝔸𝑵૦𝒿-XD', true],
+  ['917005439105', 'Ꮇ𝔸𝑵૦𝒿-XD', true] ]
 
  //Number of owners
 
@@ -53,11 +53,11 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '𝑅𝛩𝛭𝛯𝛫-𝛸𝐷'
+global.botname = 'Ꮇ𝔸𝑵૦𝒿-𝛸𝐷'
 global.premium = 'true'
-global.packname = 'ROMEK-XD' 
-global.author = '919341378016' 
-global.menuvid = 'https://i.imgur.com/ooDrItZ.mp4'
+global.packname = 'Ꮇ𝔸𝑵૦𝒿-XD' 
+global.author = '917005439105' 
+global.menuvid = 'https://i.imgur.com/1SSnPSo.mp4'
 global.igfg = '▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029VaNdKNxK5cDKRztKXV3g\n' 
 global.dygp='▢✓ Follow My channel\nhttps://chat.whatsapp.com/Hbb23H4Ny4RIc3I83S9PEv\n'
 global.fgsc = 'https://github.com/Romeofaiz/ROMEK-XD-BOT' 
@@ -67,11 +67,11 @@ global.fglog = 'STAR.jpg'
 global.thumb = fs.readFileSync('./STAR.jpg')
 
 
-global.wait = '*🕣 _ROMEK-IS LOADING..._*\n*▰▰▰▱▱▱▱▱🕗*'
+global.wait = '*🕣 _Ꮇ𝔸𝑵૦𝒿-IS LOADING..._*\n*▰▰▰▱▱▱▱▱🕗*'
 global.rwait = '🔜'
-global.dmoji = '⚡'
-global.done = '☑️'
-global.error = '❎' 
+global.dmoji = '😂'
+global.done = '👍'
+global.error = '😩' 
 global.xmoji = '⤵️' 
 
 global.multiplier = 69 
