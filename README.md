@@ -119,6 +119,12 @@
     <br>
     <a href='https://repl.it/github/salmanytofficial/XLICON-V2-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
+## `NEW DEPLOYMENT`
+NOW Deploy👇
+<br>
+## DEPLOY IN KOYEB    
+[![Deploy on Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/auth/signup)  
+
 
    
 
