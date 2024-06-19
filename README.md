@@ -8,7 +8,7 @@
 
 
 ##  ℹ️```Bot Intro```ℹ️
-[![STAR-MD-V2](https://telegra.ph/file/308d449dd1d6e9dee4bca.jpg)](https://whatsapp.com/channel/0029VaNdKNxK5cDKRztKXV3g)
+[![STAR-MD-V2](https://i.imgur.com/DaThRbF.jpeg)](https://whatsapp.com/channel/0029VaNdKNxK5cDKRztKXV3g)
 </p>
       <p align="center">
   <a href="https://wa.me//+918433897160" target="_blank">
