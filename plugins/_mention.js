@@ -8,11 +8,11 @@
 
 let handler = m => m
 handler.all = async function (m, conn) {
-    var vn = "./Assets/ALIVE.mp3"
+    var vn = "./Assets/mp3.mp3"
     let url = "https://github.com/Romeofaiz"
     let murl = "https://www.instagram.com/romek_xd_"
     let hash = global.botname
-    let img = "https://i.imgur.com/4J0JSNo.jpeg"
+    let img = "https://i.imgur.com/DaThRbF.jpeg"
     let num = ["919341378016","918433897160","233533763772","94789481495","233508488192"]
 
     let doc = {
