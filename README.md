@@ -8,7 +8,7 @@
 
 
 ##  ℹ️```Bot Intro```ℹ️
-[![STAR-MD-V2](https://i.imgur.com/DaThRbF.jpeg)](https://whatsapp.com/channel/0029VaNdKNxK5cDKRztKXV3g)
+[![ROMEK-XD-BOT](https://graph.org/file/42dddbf821c776adb781e.jpg)](https://whatsapp.com/channel/0029VaNdKNxK5cDKRztKXV3g)
 </p>
       <p align="center">
   <a href="https://wa.me//+918433897160" target="_blank">
@@ -78,8 +78,8 @@
 
 
 
-<a href="https://replit.com/@arohi-x-romek/ROMEK-XD-PAIR-CODE?=app" target="_blank">
-  <img src="https://img.shields.io/badge/PAIR CODE-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
+<a href="https://replit.com/@romek-xd/ROMEK-XD-BOTZ-PAIR" target="_blank">
+  <img src="https://img.shields.io/badge/PAIR CODE-green?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
 </a>
 
 
@@ -145,7 +145,7 @@ Misusing the bot may result in a ban from WhatsApp. Use at your own risk.
 
 [![ROMEK](https://github.com/Romeofaiz.png?size=300)](https://github.com/Romeofaiz), 
 
-🤖`ＨＥＬＰＩＮＧ`
+
 
 
 
