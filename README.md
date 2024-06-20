@@ -79,7 +79,7 @@
 
 
 <a href="https://replit.com/@romek-xd/ROMEK-XD-BOTZ-PAIR" target="_blank">
-  <img src="https://img.shields.io/badge/PAIR CODE-blue,and,red?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
+  <img src="https://img.shields.io/badge/PAIR CODE-rainbow?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
 </a>
 
 
