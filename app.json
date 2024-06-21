@@ -14,7 +14,7 @@
       "value": "mongodb+srv://Bikash:Bikash@bikash.yl2nhcy.mongodb.net/?retryWrites=true&w=majority"
     },
     "SESSION_ID": {
-      "description": "your session id",
+      "description": "your-session id",
       "required": true,
       "value": ""
     },
