@@ -29,4 +29,4 @@
  Running the above command will start the bot. To authenticate scan the QR which shows up in the terminal using the WA-Web Scanner on your WhatsApp . Good Luck!
 
 
- [Set it up on Heroku](https://github.com/Romeofaiz/ROMEK-XD-BOT/blob/master/Heroku-Hosting-Guide.md)
+ [Set it up on Heroku](https://github.com/Xcelsama/STAR-MD-V2/blob/master/Heroku-Hosting-Guide.md)
