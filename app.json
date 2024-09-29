@@ -14,7 +14,7 @@
       "value": "mongodb+srv://Bikash:Bikash@bikash.yl2nhcy.mongodb.net/?retryWrites=true&w=majority"
     },
     "SESSION_ID": {
-      "description": "your-session id",
+      "description": "Xlicon_497da22c-a3f4-40e0-a33f-d13aa9eb2155",
       "required": true,
       "value": ""
     },
@@ -26,7 +26,7 @@
     "PREFIX": {
       "description": "put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
       "required": false,
-      "value": "*"
+      "value": ","
     },
      "HKEY": {
       "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
@@ -41,7 +41,7 @@
     "statusview": {
       "description": "make it true if you want bot to view status",
       "required": false,
-      "value": "true"
+      "value": "false"
     
     },
     "antidelete": {
